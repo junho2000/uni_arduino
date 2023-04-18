@@ -1,1 +1,1 @@
-# -
+# - basic arduino control for university study
